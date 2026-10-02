@@ -1,0 +1,33 @@
+
+td.iso{
+    background-color: red;
+}
+td.dig{
+    background-color: rgb(110, 60, 3);
+}
+td.hw{
+    background-color: blue ;
+}
+td.net{
+    background-color: aqua;
+}
+td.eng{
+    background-color: blueviolet;
+}
+td.bbdd{
+    background-color: violet;
+}
+td.ipo{
+    background-color: green;
+}
+td.ml{
+    background-color: orange;
+}
+td{
+    text-align: center;
+    height: 100px;
+}
+table, th{
+    border: 2px solid black;
+    border-collapse: collapse
+};
